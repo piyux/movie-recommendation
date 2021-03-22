@@ -3,3 +3,10 @@
 #PLEASE DOWNLOAD DATASET FROM -> https://www.kaggle.com/grouplens/movielens-20m-dataset and store in ./DATASET
 
 DATASET/
+
+#*.json
+#these files exceed GH's upload limit
+movie2user.json
+user2movie.json
+usermovie2rating_test.json
+usermovie2rating.json
